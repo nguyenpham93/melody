@@ -1,0 +1,16 @@
+{
+  "name": "musicmelody",
+  "version": "1.0.0",
+  "description": "Play music on sever ",
+  "main": "index.js",
+  "author": "The Shepherd Boy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nunjucks": "^3.0.0",
+    "path": "^0.12.7",
+    "play-sound": "^1.1.1",
+    "socket.io": "^1.7.3"
+  }
+}
